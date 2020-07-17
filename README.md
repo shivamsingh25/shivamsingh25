@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### Welcome to my GitHub Profile
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=shivamsingh25&&show_icons=true&title_color=ffffff&icon_color=e23232&text_color=daf7dc&bg_color=151515)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=shivamsingh25&&show_icons=true&title_color=111111&icon_color=e23232&text_color=808080&bg_color=ffffff)
 <!--
 **shivamsingh25/shivamsingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
